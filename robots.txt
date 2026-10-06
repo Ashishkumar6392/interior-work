@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add the final sitemap URL after deployment, for example:
-# Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://www.rajkumarinteriors.online/sitemap.xml

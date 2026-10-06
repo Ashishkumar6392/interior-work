@@ -43,7 +43,6 @@ The enquiry form sends a copy to `ashish639263@gmail.com` using FormSubmit and t
 - sitemap.xml
 
 ### IMPORTANT after deployment
-Search and replace `__SITE_URL__` in `index.html` and `sitemap.xml` with the final live URL, e.g. `https://example.com` (no trailing slash). Then add this line to robots.txt:
-`Sitemap: https://example.com/sitemap.xml`
+Final production domain is `https://www.rajkumarinteriors.online`. Canonical URLs, Open Graph URLs, `robots.txt`, and `sitemap.xml` are configured for this domain.
 
-After that, submit `https://example.com/sitemap.xml` in Google Search Console.
+Submit `https://www.rajkumarinteriors.online/sitemap.xml` in Google Search Console.
